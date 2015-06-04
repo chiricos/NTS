@@ -1,0 +1,7 @@
+[26-Nov-2014 22:11:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/hollman/public_html/zebrastudio.co/NTS/wp-content/themes/responsive/front-page.php on line 72
+[28-Jan-2015 15:26:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 130968 bytes) in /home2/dsands/public_html/NTS/wp-includes/cache.php on line 113
+[28-Jan-2015 15:26:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 130968 bytes) in /home2/dsands/public_html/NTS/wp-includes/cache.php on line 113
+[28-Jan-2015 15:27:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home2/dsands/public_html/NTS/wp-includes/general-template.php on line 229
+[28-Jan-2015 15:27:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home2/dsands/public_html/NTS/wp-includes/general-template.php on line 229
+[12-Mar-2015 02:02:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home2/dsands/public_html/NTS/wp-includes/query.php on line 1570
+[08-May-2015 21:42:12 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home3/nts/public_html/wp-includes/query.php on line 1570
